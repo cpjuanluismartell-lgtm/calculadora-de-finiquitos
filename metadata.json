@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Calculadora de Finiquitos México v3",
+  "description": "Una aplicación para calcular finiquitos de empleados de forma masiva en base a la ley mexicana. El usuario puede pegar una tabla de datos de empleados para generar los cálculos y ver el detalle para cada uno.",
+  "requestFramePermissions": []
+}
